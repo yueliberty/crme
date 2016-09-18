@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	System.out.println("nishishui");
 	System.out.println("woshishui");
 	System.out.println("woaiwo");
+	System.out.println("aefwafger");
 }
 }
